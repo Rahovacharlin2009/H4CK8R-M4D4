@@ -389,21 +389,19 @@ def follow(ses,coki):
 
 logo = ("""\033[1;32m
        
-\033[1;32m *******       **     **      **   *******   **      **     **    
-\033[1;32m/**////**     ****   /**     /**  **/////** /**     /**    ****   
-\033[1;32m/**   /**    **//**  /**     /** **     //**/**     /**   **//**  
-\033[1;32m/*******    **  //** /**********/**      /**//**    **   **  //** 
-\033[1;32m/**///**   **********/**//////**/**      /** //**  **   **********
-\033[1;32m/**  //** /**//////**/**     /**//**     **   //****   /**//////**
-\033[1;32m/**   //**/**     /**/**     /** //*******     //**    /**     /**
-\033[1;32m//     // //      // //      //   ///////       //     //      // 
-
-\x1b[1;94m=====================================================
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Author     : RAHOVA CHARLLIN
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Powered    : JEAN MARC
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Status     : FREE
-\x1b[1;97m [\x1b[1;92m+\x1b[1;97m] Version    : 2.0
-\x1b[1;94m=====================================================""")
+  \033[1;32md8888b.  .d8b.  db   db  .d88b.  db    db  .d8b.  
+  \033[1;32m88  `8D d8' `8b 88   88 .8P  Y8. 88    88 d8' `8b 
+  \033[1;32m88oobY' 88ooo88 88ooo88 88    88 Y8    8P 88ooo88 
+  \033[1;32m88'8b   88~~~88 88~~~88 88    88 `8b  d8' 88~~~88 
+  \033[1;32m88 `88. 88   88 88   88 `8b  d8'  `8bd8'  88   88 
+  \033[1;32m88   YD YP   YP YP   YP  `Y88P'     YP    YP   YP 
+                                                  
+\x1b[1;31m========================================================
+\x1b[1;97m [\x1b[1;94m•\x1b[1;92m•\x1b[1;97m] Author     : RAHOVA CHARLIN
+\x1b[1;97m [\x1b[1;92m•\x1b[1;94m•\x1b[1;97m] Powered    : JEAN MARC
+\x1b[1;97m [\x1b[1;94m•\x1b[1;97m•\x1b[1;97m] Status     : FREE
+\x1b[1;97m [\x1b[1;92m•\x1b[1;97m•\x1b[1;97m] Version    : 2.0
+\x1b[1;31m========================================================""")
 
 class Main:
 	def __init__(self):
@@ -415,7 +413,7 @@ class Main:
 		print(logo)
 		print("")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-		print("\033[1;37mNOTE : \33[1;41m Faly mandray anao izay tompoko \33[0m")
+		print("\033[1;37m𝗡𝗢𝗧𝗘 : \33[1;41m Faly mandray anao izay tompoko \33[0m")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
 		
 		
@@ -433,12 +431,12 @@ class Main:
 			os.system("xdg-open https://facebook.com/groups/641144864016773/")
 			print("")
 			time.sleep(3.0)
-			print("\033[1;37m  Rahovacharlin ")
+			print("\033[1;37m   Rahovacharlin ")
 			print("")
 			input("\n\033[1;37m TYᑭᗴ Tᕼᗴ Oᗯᑎᗴᖇ ᖴᗩᑕᗴᗷOOK ᗩᑕᑕOᑌᑎT ᑎᗩᗰᗴ \033[1;37m")
 			time.sleep(3.1)
 			print("")
-			print("\033[1;32m ᗯᗴᒪᑕOᗰᗴ TO ••SANA•• ᗷᖇᗩᑎᗪ TOOᒪՏ")
+			print("\033[1;32m ᗯᗴᒪᑕOᗰᗴ TO ••RAHOVA•• ᗷᖇᗩᑎᗪ TOOᒪՏ")
 			time.sleep(3.0)
 			os.system("clear")
 		print()
@@ -464,9 +462,9 @@ class Main:
 		print("│ [5] CRACK RANDOM FB ID 2011-14 (\x1b[1;96mFREE\x1b[1;97m)                        │")
 		print("│ [6] CRACK RANDOM FB ID 2004-2005 (\x1b[1;96mEREE\x1b[1;97m)                      │")
 		print("│ [7] CRACK RANDOM FB ID 2006-2007 (\x1b[1;96mFREE\x1b[1;97m)                      │")
-		print("│ [K] KELUAR BANG                                              │")
+		print("│ [0] EXIT                                                           │")
 		print("╰──────────────────────────────────────────────────────────────╯")
-		TUTUL =input("  [P] PILIH BANG : ")
+		TUTUL =input("  [00] HACKERMADA : ")
 		if TUTUL in ["1", "01"]:
 			File()
 		if TUTUL in ["2", "02"]:
@@ -504,9 +502,9 @@ class Main:
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(G,listpass))
 				os.system("clear")
 				print(logo)
-				print("\n%s \x1b[1;97m[H] HASIL OK TERSIMPAN DI : OK.txt"%(Y))
-				print("%s \x1b[1;97m[H] HASIL CP TERSIMPAN DI : CP.txt"%(G))
-				print("%s \x1b[1;97m[O] ON/OFF MODE PESAWAT JIKA TIDAK ADA HASIL\x1b[0m\n"%(P))
+				print("\n%s \x1b[1;97m[H] RAHOVA OK CHARLIN DI : OK.txt"%(Y))
+				print("%s \x1b[1;97m[H] RAHOVA CP CHARLIN DI : CP.txt"%(G))
+				print("%s \x1b[1;97m[O] ON/OFF MODE AIRPLAN \x1b[0m\n"%(P))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
 			exit("\n\n [>>] CRACK COMPLETE...")
