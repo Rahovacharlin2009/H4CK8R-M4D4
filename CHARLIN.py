@@ -415,13 +415,13 @@ class Main:
 		print(logo)
 		print("")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
-		print("\033[1;37m𝗡𝗢𝗧𝗘 : \33[1;41m Faly mandray anao izay tompoko \33[0m")
+		print("\033[1;37mNOTE : \33[1;41m Faly mandray anao izay tompoko \33[0m")
 		print("- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - ")
 		
 		
 		print("")
-		print("\033[1;37m [1] 𝗙𝗶𝗿𝘀𝘁 join my group  ")
-		print("\033[1;37m [2] 𝗘𝘅𝗶𝘁")
+		print("\033[1;37m [1] First join my group  ")
+		print("\033[1;37m [2] Exit")
 		print("")
 		Baloch = input("\n\033[1;37m  Choose : \033[1;32m")
 		if Baloch in ["", " "]:
